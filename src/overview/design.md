@@ -25,7 +25,7 @@ forsite: teacher
 
 Optimizing on multiple axes at a time.
 
-*   Why.  (Philosophical purpose of class)
+*   Why.  (Philosophical purpose of work)
 *   What. (Content and skills covered and assessed)
 *   How.  (Time usage, projects done, assignments, etc., etc.)
 
